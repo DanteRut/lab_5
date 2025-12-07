@@ -3,4 +3,5 @@ class Main {
         System.out.print("Это добавлено в ветке dev");
     }
 //    method11
+//    method12
 }
